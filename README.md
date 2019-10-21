@@ -12,8 +12,7 @@ Exit nano saving changes, and restart the terminal window
 Now, you can run it from anywhere like so:
 custom_name {args}
 
-     ⚠     If for some reason this doesn’t work you can write this command line into your                                                                                                                                     shell in order to create the alias and run the jar with the command : 
-alias sgit='java -jar path/to/file/Sgit-Nathan-Traineau.jar’
+     ⚠     If for some reason this doesn’t work you can write shell in order to create the alias and run the jar with the command : alias sgit='java -jar path/to/file/Sgit-Nathan-Traineau.jar’
 and then when you type “sgit” into your shell this will launch the jar so you can type a command. 
 But you will have to do this each session you want to use this program.
 
